@@ -1,0 +1,23 @@
+<resources>
+    <!--
+
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?a
+    You can also add your credentials to an expiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=%3Bcom.keelim.cnubus.activities
+isting key, using these values:
+
+    Package name:
+    com.keelim.cnubus.activities
+
+    SHA-1 certificate fingerprint:
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyBXwpMH7kKkWF-3KVcqAElwUGlDAVFtiWQ</string>
+</resources>
