@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "122251546303",
+    "firebase_url": "https://cnubus-e0cef.firebaseio.com",
+    "project_id": "cnubus-e0cef",
+    "storage_bucket": "cnubus-e0cef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122251546303:android:ebbf920091cd68bf",
+        "android_client_info": {
+          "package_name": "com.keelim.cnubus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122251546303-rkc44kes4mrs5u4sn2q1figq2jl5pdjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXwpMH7kKkWF-3KVcqAElwUGlDAVFtiWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122251546303-rkc44kes4mrs5u4sn2q1figq2jl5pdjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3115620439518585~7951570697"
+    }
+  ],
+  "configuration_version": "1"
+}
