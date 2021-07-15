@@ -122,7 +122,6 @@ class MapsActivity : AppCompatActivity() {
 
     private fun locationListInit() {
         myPositionInit()
-
         locationList = ArrayList()
         locationList!!.add(LatLng(36.363876, 127.345119)) // 정삼화
         locationList!!.add(LatLng(36.367262, 127.342408)) // 한누리관 뒤
